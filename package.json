@@ -1,0 +1,17 @@
+{
+  "name": "countdown-pkg",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "countdown"
+  ],
+  "author": "gtchakama",
+  "license": "ISC",
+  "dependencies": {
+    "countdown-pkg": "^1.0.0"
+  }
+}
